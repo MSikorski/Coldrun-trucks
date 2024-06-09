@@ -1,0 +1,57 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build output directories
+dist/
+build/
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+
+# Editor and IDE specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+temp/
+tmp/
+*.swp
+*.bak
+*.tmp
+*.old
+*.orig
+*.swp
+*.swo
+*.swn
+
+# Test coverage
+coverage/
+*.lcov
+
+# Miscellaneous
+*.cache
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Sentry CLI
+.sentryclirc
+
+# TernJS
+.tern-project
